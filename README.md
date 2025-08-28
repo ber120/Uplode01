@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@kalvin" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 
 ## 🤖 Bot Usernames
 
-- [@saini_contact_bot](https://t.me/Education_waale_bot)
-- [@saini_file_store_bot](https://t.me/Education_waale_bot)
+- [@Berlin_contact_bot](https://t.me/Education_waale_bot)
+- [@berlin_course__bot](https://t.me/Education_waale_bot)
 
 ---
 
